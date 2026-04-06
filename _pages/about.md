@@ -23,8 +23,6 @@ I have a robust foundation in deep learning and computer vision, honed through h
 
 My research aspiration is to deepen my exploration in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, contributing to the advancement of AI systems that can better understand and interact with the world.
 
-📄 [View my CV online](/cv/) | [Download PDF](../files/CV_ZiyangYe.pdf)
-
 
 # 📝 Publications 
 
