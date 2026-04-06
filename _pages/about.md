@@ -23,7 +23,7 @@ I have a robust foundation in deep learning and computer vision, honed through h
 
 My research aspiration is to deepen my exploration in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, contributing to the advancement of AI systems that can better understand and interact with the world.
 
-📄 [Download my CV](../files/CV_ZiyangYe.pdf)
+📄 [View my CV online](/cv/) | [Download PDF](../files/CV_ZiyangYe.pdf)
 
 
 # 🔥 News
@@ -32,7 +32,7 @@ My research aspiration is to deepen my exploration in **World Modeling**, **Gene
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Under Review</div><img src='images/live_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LIVE: Long-horizon Interactive Video World Modeling](https://doi.org/10.48550/arXiv.2602.03747)
