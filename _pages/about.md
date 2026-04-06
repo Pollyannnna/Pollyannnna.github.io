@@ -26,10 +26,6 @@ My research aspiration is to deepen my exploration in **World Modeling**, **Gene
 📄 [View my CV online](/cv/) | [Download PDF](../files/CV_ZiyangYe.pdf)
 
 
-# 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Our paper "LIVE: Long-horizon Interactive Video World Modeling" has been submitted to ICML 2026!
-- *2025.12*: &nbsp;🎉🎉 Started working as a Research Assistant at CUHK-SZ under Prof. Li Jiang. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Under Review</div><img src='images/live_paper.png' alt="sym" width="100%"></div></div>
@@ -39,10 +35,13 @@ My research aspiration is to deepen my exploration in **World Modeling**, **Gene
 
 Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi, Jiang Bian, Li Jiang
 
-arXiv preprint arXiv:2602.03747, February 2026
+arXiv preprint arXiv:2602.03747, February 2026 | **ICML 2026 Scores: 5/4/4/4**
 
 [**arXiv**](https://doi.org/10.48550/arXiv.2602.03747)
-- Research on Video World Models and Embodied AI's World Action Models
+- LIVE is a novel video world model that enables long-horizon interactive video generation and action modeling for embodied AI
+- Introduces a unified framework for video prediction and action-conditioned generation, bridging the gap between world models and embodied intelligence
+- Demonstrates strong performance on long-horizon video generation tasks with interactive control capabilities
+- Submitted to ICML 2026 with reviewer scores of 5/4/4/4
 </div>
 </div>
 
@@ -51,7 +50,7 @@ arXiv preprint arXiv:2602.03747, February 2026
 - *2024* Second-Class Scholarship (15%), Outstanding Student Leader, Jilin University 
 
 # 📖 Educations
-- *2023.09 - 2027.06 (Expected)*, Bachelor of Engineering in Software Engineering, Jilin University, China. GPA: 88.56/100 (Ranking: 41/336) 
+- *2023.09 - 2027.06 (Expected)*, Bachelor of Engineering in Software Engineering, Jilin University, China. GPA: 88.56/100 
 
 # 🔬 Research Experience
 - *2025.12 - Present*, **Research Assistant**, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
