@@ -37,7 +37,7 @@ Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi,
 - LIVE is a novel video world model that enables long-horizon interactive video generation and action modeling for embodied AI
 - Introduces a unified framework for video prediction and action-conditioned generation, bridging the gap between world models and embodied intelligence
 - Demonstrates strong performance on long-horizon video generation tasks with interactive control capabilities
-- Submitted to ICML 2026 with reviewer scores of 5/4/4/4
+
 </div>
 </div>
 
