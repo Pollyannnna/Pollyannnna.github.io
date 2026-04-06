@@ -34,8 +34,6 @@ My research aspiration is to deepen my exploration in **World Modeling**, **Gene
 Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi, Jiang Bian, Li Jiang
 
 arXiv preprint arXiv:2602.03747, February 2026 | **ICML 2026 Scores: 5/4/4/4**
-
-[**arXiv**](https://doi.org/10.48550/arXiv.2602.03747)
 - LIVE is a novel video world model that enables long-horizon interactive video generation and action modeling for embodied AI
 - Introduces a unified framework for video prediction and action-conditioned generation, bridging the gap between world models and embodied intelligence
 - Demonstrates strong performance on long-horizon video generation tasks with interactive control capabilities
