@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Ziyang Ye (叶子扬), an undergraduate student majoring in Software Engineering at Jilin University. I am highly motivated and passionate about AI research, particularly in **AIGC (AI Generated Content)**, **Video World Models**, and **Embodied Intelligence**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have a robust foundation in deep learning and computer vision, honed through hands-on university research projects where I independently managed the full research lifecycle—from literature review and data processing to experiment design and model reproduction. Currently, I am working as a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) under the supervision of Prof. Li Jiang, focusing on Video World Models and Embodied AI's World Action Models.
+
+My research aspiration is to deepen my exploration in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, contributing to the advancement of AI systems that can better understand and interact with the world.
+
+📄 [Download my CV](../files/CV_ZiyangYe.pdf)
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 Our paper "LIVE: Long-horizon Interactive Video World Modeling" has been submitted to ICML 2026!
+- *2025.12*: &nbsp;🎉🎉 Started working as a Research Assistant at CUHK-SZ under Prof. Li Jiang. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LIVE: Long-horizon Interactive Video World Modeling](https://doi.org/10.48550/arXiv.2602.03747)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi, Jiang Bian, Li Jiang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+arXiv preprint arXiv:2602.03747, February 2026
+
+[**arXiv**](https://doi.org/10.48550/arXiv.2602.03747)
+- Research on Video World Models and Embodied AI's World Action Models
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Second-Class Scholarship (10%), Academic and Technological Award, Jilin University
+- *2024* Second-Class Scholarship (15%), Outstanding Student Leader, Jilin University 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (Expected)*, Bachelor of Engineering in Software Engineering, Jilin University, China. GPA: 88.56/100 (Ranking: 41/336) 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
+- *2025.12 - Present*, **Research Assistant**, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), China
+  - Supervisor: Prof. Li Jiang
+  - Focus: Video World Models and Embodied AI's World Action Models
+  - Related work submitted to ICML 2026
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - 2025.10*, **Research Intern**, IIGG Group, School of Artificial Intelligence, Jilin University, China
+  - Supervisor: Prof. Xi Yang
+  - Focus: Sketch appearance transfer, improving diffusion-based methods
+  - Reproduced mainstream appearance transfer frameworks and designed a DiT-based scheme (Flux/ControlNet/SAM/DINO)
+  - Achieved results outperforming SOTA methods in core metrics (DINO, CLIP, SSIM)
+  - Developed explicit style disentanglement methods for controllable appearance transfer
