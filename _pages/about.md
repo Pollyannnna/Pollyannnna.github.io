@@ -19,7 +19,7 @@ redirect_from:
 
 I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at Jilin University. I am currently a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working with Prof. Li Jiang on **Video World Models** and **Embodied AI**.
 
-My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently leading SemWAM, a **World Action Model** for robot manipulation that distills semantic knowledge from vision foundation models to strengthen world understanding and policy decisions.
+My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
 
 I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
 
@@ -57,7 +57,7 @@ Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi,
   <div style="color:#666; margin: 2px 0;">Research Assistant &nbsp;|&nbsp; Advisor: Prof. Li Jiang &nbsp;|&nbsp; Shenzhen, China</div>
   <ul style="margin-top: 6px;">
     <li><strong>LIVE</strong> (under review at ICML 2026): Implemented core training modules including the cycle-consistency objective and the forward-reverse rollout pipeline in the Causal DiT codebase. Conducted experiments across multiple benchmarks (RealEstate10K, Minecraft, UE Engine), achieving SOTA performance on long-horizon video generation (up to 256-frame rollouts). Contributed to paper writing and co-authored the submission.</li>
-    <li><strong>SemWAM</strong> (ongoing, leading end-to-end): Building a <strong>World Action Model</strong> for robot manipulation by distilling semantic knowledge from vision foundation models (e.g. DINO features) into a video-generation backbone, aiming to strengthen the model's world understanding and policy decision-making. Fully responsible for project design, implementation, and evaluation.</li>
+    <li><strong>GeoWAM</strong> (ongoing): Building a <strong>World Action Model</strong> for robot manipulation by enriching a video-generation backbone with external priors (e.g. 3D geometry or semantic features from vision foundation models) to strengthen the model's world understanding and policy decision-making.</li>
   </ul>
 </div>
 
