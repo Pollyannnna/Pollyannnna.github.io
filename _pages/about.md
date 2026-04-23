@@ -19,7 +19,7 @@ redirect_from:
 
 I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at Jilin University. I am currently a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working with Prof. Li Jiang on **Video World Models** and **Embodied AI**.
 
-My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently developing GeoWAM, a geometry-aware world action model for robot manipulation.
+My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently leading SemWAM, a **World Action Model** for robot manipulation that distills semantic knowledge from vision foundation models to strengthen world understanding and policy decisions.
 
 I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
 
@@ -33,7 +33,7 @@ I am broadly interested in **World Modeling**, **Generative Modeling**, and **Em
 
 Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi, Jiang Bian, Li Jiang
 
-**ICML 2026 Scores: 5/4/4/4**
+**ICML 2026 Scores: 5544**
 - Addresses error accumulation in autoregressive video world models, which degrades generation quality over long horizons
 - Proposes a cycle-consistency objective via forward-reverse rollouts to enforce bounded error propagation, eliminating the need for teacher-based distillation
 - Introduces a progressive training curriculum to stabilize training, achieving SOTA on long-horizon benchmarks with stable video generation far beyond training rollout lengths
@@ -54,18 +54,18 @@ Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi,
 
 <div style="margin-bottom: 1.5em;">
   <div><strong>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)</strong> &nbsp;·&nbsp; <em>Dec. 2025 – Present</em></div>
-  <div style="color:#666; margin: 2px 0;">Research Assistant &nbsp;|&nbsp; Supervisor: Prof. Li Jiang &nbsp;|&nbsp; Shenzhen, China</div>
+  <div style="color:#666; margin: 2px 0;">Research Assistant &nbsp;|&nbsp; Advisor: Prof. Li Jiang &nbsp;|&nbsp; Shenzhen, China</div>
   <ul style="margin-top: 6px;">
     <li><strong>LIVE</strong> (under review at ICML 2026): Implemented core training modules including the cycle-consistency objective and the forward-reverse rollout pipeline in the Causal DiT codebase. Conducted experiments across multiple benchmarks (RealEstate10K, Minecraft, UE Engine), achieving SOTA performance on long-horizon video generation (up to 256-frame rollouts). Contributed to paper writing and co-authored the submission.</li>
-    <li><strong>GeoWAM</strong> (ongoing): Building a geometry-aware world action model for robot manipulation by augmenting a video-generation backbone with 3D geometry priors. Introduces geometry as a co-denoised branch in a flow-matching DiT, enabling persistent spatial scene memory and reasoning about occluded objects. Responsible for model design, geometry feature extraction pipeline, and training/evaluation on the RoboTwin 2.0 benchmark.</li>
+    <li><strong>SemWAM</strong> (ongoing, leading end-to-end): Building a <strong>World Action Model</strong> for robot manipulation by distilling semantic knowledge from vision foundation models (e.g. DINO features) into a video-generation backbone, aiming to strengthen the model's world understanding and policy decision-making. Fully responsible for project design, implementation, and evaluation.</li>
   </ul>
 </div>
 
 <div style="margin-bottom: 1.5em;">
   <div><strong>School of Artificial Intelligence, Jilin University</strong> &nbsp;·&nbsp; <em>Mar. 2025 – Oct. 2025</em></div>
-  <div style="color:#666; margin: 2px 0;">Research Intern &nbsp;|&nbsp; Supervisor: Prof. Xi Yang &nbsp;|&nbsp; Changchun, China</div>
+  <div style="color:#666; margin: 2px 0;">Research Intern &nbsp;|&nbsp; Advisor: Prof. Xi Yang &nbsp;|&nbsp; Changchun, China</div>
   <ul style="margin-top: 6px;">
     <li>Reproduced mainstream appearance transfer frameworks and engineered a novel DiT-based scheme (Flux / ControlNet / SAM / DINO) for sketch-guided controllable image synthesis.</li>
-    <li>Developed explicit style disentanglement methods and achieved SOTA performance across DINO, CLIP, and SSIM metrics.</li>
+    <li>Developed explicit style disentanglement methods and achieved SOTA performance across DINO, CLIP-I, and SSIM metrics.</li>
   </ul>
 </div>
