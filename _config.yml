@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ziyang Ye"
-description              : "AI Student specializing in AIGC, Video World Models, and Embodied Intelligence"
+description              : "Undergraduate researcher specializing in Video World Models, Generative Modeling, and Embodied Intelligence"
 repository               : "yeziyang/yeziyang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ziyang Ye"
   avatar           : "images/profile.png"
-  bio              : "AI Student @ Jilin University"
+  bio              : "Undergraduate @ Jilin University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :

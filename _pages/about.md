@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Ziyang Ye (叶子扬), an undergraduate student majoring in Software Engineering at Jilin University. I am highly motivated and passionate about AI research, particularly in **AIGC (AI Generated Content)**, **Video World Models**, and **Embodied Intelligence**.
+I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at Jilin University. I am currently a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working with Prof. Li Jiang on **Video World Models** and **Embodied AI**.
 
-I have a robust foundation in deep learning and computer vision, honed through hands-on university research projects where I independently managed the full research lifecycle—from literature review and data processing to experiment design and model reproduction. Currently, I am working as a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) under the supervision of Prof. Li Jiang, focusing on Video World Models and Embodied AI's World Action Models.
+My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently developing GeoWAM, a geometry-aware world action model for robot manipulation.
 
-My research aspiration is to deepen my exploration in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, contributing to the advancement of AI systems that can better understand and interact with the world.
+I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
 
 
 # 📝 Publications 
