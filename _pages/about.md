@@ -19,21 +19,21 @@ redirect_from:
 
 I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at Jilin University. I am currently a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working with Prof. Li Jiang on **Video World Models** and **Embodied AI**.
 
-My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (under review at ICML 2026), and am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
+My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (accepted at ICML 2026), and am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
 
 I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Under Review</div><img src='images/live_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/live_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LIVE: Long-horizon Interactive Video World Modeling](https://doi.org/10.48550/arXiv.2602.03747)
 
 Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi, Jiang Bian, Li Jiang
 
-**ICML 2026 Scores: 5544**
+**Accepted at ICML 2026**
 - Addresses error accumulation in autoregressive video world models, which degrades generation quality over long horizons
 - Proposes a cycle-consistency objective via forward-reverse rollouts to enforce bounded error propagation, eliminating the need for teacher-based distillation
 - Introduces a progressive training curriculum to stabilize training, achieving SOTA on long-horizon benchmarks with stable video generation far beyond training rollout lengths
@@ -56,7 +56,7 @@ Junchao Huang, **Ziyang Ye**, Xinting Hu, Tianyu He, Guiyu Zhang, Shaoshuai Shi,
   <div><strong>The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)</strong> &nbsp;·&nbsp; <em>Dec. 2025 – Present</em></div>
   <div style="color:#666; margin: 2px 0;">Research Assistant &nbsp;|&nbsp; Advisor: Prof. Li Jiang &nbsp;|&nbsp; Shenzhen, China</div>
   <ul style="margin-top: 6px;">
-    <li><strong>LIVE</strong> (under review at ICML 2026): Implemented core training modules including the cycle-consistency objective and the forward-reverse rollout pipeline in the Causal DiT codebase. Conducted experiments across multiple benchmarks (RealEstate10K, Minecraft, UE Engine), achieving SOTA performance on long-horizon video generation (up to 256-frame rollouts). Contributed to paper writing and co-authored the submission.</li>
+    <li><strong>LIVE</strong> (accepted at ICML 2026): Implemented core training modules including the cycle-consistency objective and the forward-reverse rollout pipeline in the Causal DiT codebase. Conducted experiments across multiple benchmarks (RealEstate10K, Minecraft, UE Engine), achieving SOTA performance on long-horizon video generation (up to 256-frame rollouts).</li>
     <li><strong>GeoWAM</strong> (ongoing): Building a <strong>World Action Model</strong> for robot manipulation by enriching a video-generation backbone with external priors (e.g. 3D geometry or semantic features from vision foundation models) to strengthen the model's world understanding and policy decision-making.</li>
   </ul>
 </div>
