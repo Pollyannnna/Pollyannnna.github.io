@@ -21,7 +21,11 @@ I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at 
 
 My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
 
-I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
+I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**.
+
+<div style="padding: 10px 14px; border-left: 4px solid #2a7ae2; background: #f0f6ff; border-radius: 4px; margin: 12px 0;">
+<strong>🚀 I am actively seeking <span style="color:#2a7ae2;">PhD / Research Assistant / Research Intern</span> positions.</strong> Feel free to reach out via <a href="mailto:yeziyang777@gmail.com">email</a> if you'd like to collaborate or discuss opportunities.
+</div>
 
 
 # 📝 Publications 
