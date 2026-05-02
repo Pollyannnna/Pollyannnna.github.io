@@ -24,7 +24,7 @@ My work focuses on building world models that generate long-horizon, action-cond
 I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**.
 
 <div style="padding: 10px 14px; border-left: 4px solid #2a7ae2; background: #f0f6ff; border-radius: 4px; margin: 12px 0;">
-<strong>🚀 I am actively seeking <span style="color:#2a7ae2;">PhD / Research Assistant / Research Intern</span> positions.</strong> Feel free to reach out via <a href="mailto:yeziyang777@gmail.com">email</a> if you'd like to collaborate or discuss opportunities.
+<strong>🚀 I am actively seeking <span style="color:#2a7ae2;">PhD / Research Assistant / Internship</span> positions.</strong> Feel free to reach out via <a href="mailto:yeziyang777@gmail.com">email</a> if you'd like to collaborate or discuss opportunities.
 </div>
 
 
