@@ -19,7 +19,7 @@ redirect_from:
 
 I am Ziyang Ye (叶子扬), an undergraduate student in Software Engineering at Jilin University. I am currently a Research Assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working with Prof. Li Jiang on **Video World Models** and **Embodied AI**.
 
-My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I co-authored [LIVE](https://arxiv.org/abs/2602.03747), a video world model achieving state-of-the-art long-horizon generation via a cycle-consistency objective (accepted at ICML 2026), and am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
+My work focuses on building world models that generate long-horizon, action-conditioned video — bridging generative modeling and embodied intelligence. I am currently developing GeoWAM, a **World Action Model** for robot manipulation that enriches video-generation backbones with external priors to strengthen world understanding and policy decisions.
 
 I am broadly interested in **World Modeling**, **Generative Modeling**, and **Embodied Intelligence**, and am seeking a PhD position to push these frontiers further.
 
